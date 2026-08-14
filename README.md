@@ -1,18 +1,47 @@
 <div align="center">
+# 🚀 Hsinidev
+### *High-Performance Autonomous Intelligence & Modular Universal Engine*
+
+<p align="center">
+  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
+  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0055FF&center=true&vCenter=true&width=750&lines=Principal+AI+Systems+Architect;Autonomous+Multi-Agent+Swarm+Engineer;Full-Stack+SaaS+%26+Cloud+Infrastructure+Lead;Creator+of+Autonomous-Agent-Workstation;Specialist+in+LangGraph+DAGs+%26+MCP+Tooling" alt="Typing SVG" />
+
+</div>
+
+---
+## 🌟 Executive Overview
+
+**Hsinidev** is an enterprise-grade artificial intelligence solution engineered for low-latency reasoning, deterministic workflow automation, and high-accuracy data orchestration. Built with modern **Universal** and **Universal**, it delivers modular architecture and seamless developer ergonomics.
+
+## ⚡ Key Highlights & Capabilities
+
+- **Autonomous Orchestration**: Advanced state management and deterministic execution pipelines.
+- **Modular Architecture**: Plug-and-play integrations with clean abstraction layers.
+- **Zero-Overhead Processing**: High-throughput processing optimized for local and cloud environments.
+- **Developer-First APIs**: Type-safe interfaces with comprehensive observability.
+
+---
+## 🏗️ Architecture & Technology Stack
+
+- **Primary Language**: `Universal`
+- **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
+- **License**: MIT Open Source Attribution
+
+## 📖 Deep-Dive Technical Documentation
+
+<div align="center">
 
   # ⚡ Hsini Mohamed (hsinidev)
   ### *Principal AI Systems Architect · Autonomous Swarm Engineer · SaaS Lead*
 
   <a href="https://hsini.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0055FF&center=true&vCenter=true&width=750&lines=Principal+AI+Systems+Architect;Autonomous+Multi-Agent+Swarm+Engineer;Full-Stack+SaaS+%26+Cloud+Infrastructure+Lead;Creator+of+Autonomous-Agent-Workstation;Specialist+in+LangGraph+DAGs+%26+MCP+Tooling" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-0055ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/GitHub-@hsinidev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:hsini.moahmed@gmail.com"><img src="https://img.shields.io/badge/Email-hsini.moahmed@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://img.shields.io/badge/Location-Morocco%20🇲🇦-00c853?style=for-the-badge" alt="Location" />
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Contracts-f59e0b?style=for-the-badge" alt="Status" />
   </p>
 
 </div>
@@ -153,7 +182,6 @@
         <sub>100+ Free Online AI Tools Portal</sub>
       </td>
       <td>
-        High-traffic multi-utility web portal featuring 100+ developer utilities, Gemini AI assistants, converters, Cloudflare speed tests, and client-side processing.
       </td>
       <td>
         <code>React 19</code> · <code>TypeScript</code> · <code>Vite</code> · <code>Gemini API</code>
@@ -275,9 +303,6 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Total_Repositories-1%2C764-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Total Repositories" />
-    <img src="https://img.shields.io/badge/Clustered_Domains-7_Core_Themes-8b5cf6?style=for-the-badge" alt="7 Core Themes" />
-    <img src="https://img.shields.io/badge/Architecture-Autonomous_Swarm_%26_Local_AI-00c853?style=for-the-badge" alt="Architecture" />
   </p>
 </div>
 
@@ -294,7 +319,6 @@
 | **⚡ Systems, Networking & Security** | `44` | `2.5%` | `C#`, `Makefile`, `C++`, `PowerShell` | Quantum SSH/SFTP terminals, NetPulse scanner, Zero-Trust SOC, DNS benches |
 | **🔄 Media Processing & Converters** | `33` | `1.9%` | `Python`, `TypeScript`, `FFmpeg` | Vector transcoders, batch document matrix engines, PDF forge pipelines |
 | **💼 FinTech, Calculators & Business** | `37` | `2.1%` | `TypeScript`, `React`, `Kotlin` | Cross-border tax hubs, SoloIRA planners, contractor mileage calculators |
-| **💻 Modern Web Apps & UI Suites** | `308` | `17.5%` | `TypeScript`, `Next.js`, `React 19` | 1000-UI component suites, developer portals, enterprise dashboards |
 | **🎮 Web Games & Interactive Experiences** | `1,228` | `69.6%` | `HTML5`, `JavaScript`, `WebGL` | 2D/3D physics engines, canvas simulations, arcade game collections |
 
 <br />
@@ -317,7 +341,6 @@
 #### 2. 📱 Native Mobile Applications (Android / Kotlin) (31 Repositories)
 *Production-ready Android native applications built with modern Kotlin, Jetpack Compose, state flow architectures, and localized utilities.*
 
-- [**FocusForge**](https://github.com/hsinidev/FocusForge) — High-focus task and sprint manager for developers.
 - [**LinkDigest**](https://github.com/hsinidev/LinkDigest) — Offline article digest and reading companion.
 - [**PupSenior-Tracker**](https://github.com/hsinidev/PupSenior-Tracker) — Senior pet healthcare & medication scheduling engine.
 - [**CrossBorder-TaxHub**](https://github.com/hsinidev/CrossBorder-TaxHub) — International multi-jurisdiction tax estimator.
@@ -349,10 +372,8 @@
 - [**GigDriver-Calc**](https://github.com/hsinidev/GigDriver-Calc) — Real-time net wage and vehicle depreciation calculator.
 
 #### 6. 💻 Modern Web Apps, Dashboards & UI Suites (308 Repositories)
-*Modern web dashboards, 1000-UI component suites, interactive portals, and developer tool platforms built with TypeScript and modern web tech.*
 
 - [**1000-ui-projects**](https://github.com/hsinidev/1000-ui-projects) — Flagship showcase of 1,000 production UI modules and interactive components.
-- [**doodax**](https://github.com/hsinidev/doodax) — 100+ free online developer utilities and web tools portal.
 - [**apex-trader**](https://github.com/hsinidev/apex-trader) — Institutional financial charting and analytics terminal.
 - [**hsini-estates**](https://github.com/hsinidev/hsini-estates) — 360° virtual real estate tour and spatial visualizer.
 
@@ -383,56 +404,22 @@
 
   ### 🤖 AI, LLMs & Multi-Agent Swarms
   <p>
-    <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
-    <img src="https://img.shields.io/badge/CrewAI-FF5722?style=for-the-badge&logo=crewai&logoColor=white" />
-    <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenAI_Swarm-412991?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-    <img src="https://img.shields.io/badge/ChromaDB-FC521F?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Model_Context_Protocol-6B21A8?style=for-the-badge&logo=json&logoColor=white" />
   </p>
 
   ### ⚙️ Backend, Systems & Cloud Infrastructure
   <p>
-    <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-    <img src="https://img.shields.io/badge/PHP_8.3-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   </p>
 
   ### 🌐 Frontend, Web & Spatial/3D UI
   <p>
-    <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   </p>
 
   ### 💾 Databases & Storage Engines
   <p>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLite_vec-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/LanceDB-24292E?style=for-the-badge" />
   </p>
 
   ### 🎮 Creative Actuators & Tooling
   <p>
-    <img src="https://img.shields.io/badge/Unity_3D-000000?style=for-the-badge&logo=unity&logoColor=white" />
-    <img src="https://img.shields.io/badge/Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-    <img src="https://img.shields.io/badge/DaVinci_Resolve-1C1C1C?style=for-the-badge&logo=blackmagicdesign&logoColor=white" />
-    <img src="https://img.shields.io/badge/Canva_MCP-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </p>
 
 </div>
@@ -445,10 +432,64 @@ Looking to build **autonomous AI agent architectures**, scale **multi-tenant Saa
 
 <div align="center">
   <p>
-    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/🌐_Official_Portfolio-hsini.dev-0055ff?style=for-the-badge" alt="Portfolio" /></a>
-    <a href="mailto:hsini.moahmed@gmail.com"><img src="https://img.shields.io/badge/✉️_Email_Direct-hsini.moahmed@gmail.com-ea4335?style=for-the-badge" alt="Email" /></a>
-    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/🐙_GitHub_Profile-@hsinidev-181717?style=for-the-badge" alt="GitHub" /></a>
   </p>
   <br />
   <sub>⚡ Designed and maintained with precision by <b><a href="https://hsini.dev">Hsini Mohamed</a></b>.</sub>
+</div>
+
+---
+## 🚀 Quick Start & Installation
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/hsinidev/hsinidev.git
+cd hsinidev
+```
+
+### 2. Install Dependencies
+```bash
+npm install
+```
+
+### 3. Launch the Application
+```bash
+npm start
+```
+
+
+---
+
+## 👨‍💻 System Architect & Author
+
+<table align="center" style="border: none; background: transparent; width: 100%;">
+  <tr>
+    <td align="center" width="160" style="border: none; padding: 12px;">
+      <img src="https://avatars.githubusercontent.com/u/232697467?v=4" width="120" height="120" style="border-radius: 50%; box-shadow: 0 8px 24px rgba(99,102,241,0.3); border: 2.5px solid #6366f1;" alt="Hsini Mohamed" />
+      <br /><br />
+      <b>Hsini Mohamed</b><br />
+      <sub>Morocco 🇲🇦</sub>
+    </td>
+    <td style="border: none; padding: 12px; vertical-align: middle;">
+      <h3 style="margin-top: 0;">🚀 System Architect & Full-Stack Engineer</h3>
+      <p style="font-size: 0.95rem; line-height: 1.6; color: #475569;">
+        Specializing in high-performance autonomous AI systems, deterministic multi-agent swarms, enterprise cloud architecture, and modern full-stack engineering.
+      </p>
+      <p>
+        <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-2563eb?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+        <a href="mailto:contact@hsini.dev"><img src="https://img.shields.io/badge/Email-contact@hsini.dev-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+        <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/GitHub-@hsinidev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+        <a href="https://linkedin.com/in/hsinidev/"><img src="https://img.shields.io/badge/LinkedIn-hsinidev-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📄 License & Attribution
+
+This project is distributed under the **MIT License**. See [`LICENSE`](LICENSE) for complete terms.
+
+<div align="center">
+  <sub>⚡ Designed, architected, and maintained with engineering precision by <b><a href="https://hsini.dev">Hsini Mohamed</a></b>.</sub>
 </div>
