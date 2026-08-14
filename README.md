@@ -1,47 +1,22 @@
 <div align="center">
-# 🚀 Hsinidev
-### *High-Performance Autonomous Intelligence & Modular Universal Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hsini%20Mohamed&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=36" width="100%" alt="Hsini Mohamed Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0055FF&center=true&vCenter=true&width=750&lines=Principal+AI+Systems+Architect;Autonomous+Multi-Agent+Swarm+Engineer;Full-Stack+SaaS+%26+Cloud+Infrastructure+Lead;Creator+of+Autonomous-Agent-Workstation;Specialist+in+LangGraph+DAGs+%26+MCP+Tooling" alt="Typing SVG" />
-
-</div>
-
----
-## 🌟 Executive Overview
-
-**Hsinidev** is an enterprise-grade artificial intelligence solution engineered for low-latency reasoning, deterministic workflow automation, and high-accuracy data orchestration. Built with modern **Universal** and **Universal**, it delivers modular architecture and seamless developer ergonomics.
-
-## ⚡ Key Highlights & Capabilities
-
-- **Autonomous Orchestration**: Advanced state management and deterministic execution pipelines.
-- **Modular Architecture**: Plug-and-play integrations with clean abstraction layers.
-- **Zero-Overhead Processing**: High-throughput processing optimized for local and cloud environments.
-- **Developer-First APIs**: Type-safe interfaces with comprehensive observability.
-
----
-## 🏗️ Architecture & Technology Stack
-
-- **Primary Language**: `Universal`
-- **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
-- **License**: MIT Open Source Attribution
-
-## 📖 Deep-Dive Technical Documentation
-
-<div align="center">
-
-  # ⚡ Hsini Mohamed (hsinidev)
-  ### *Principal AI Systems Architect · Autonomous Swarm Engineer · SaaS Lead*
+  <h2>⚡ Principal AI Systems Architect · Autonomous Swarm Engineer · Full-Stack Lead</h2>
 
   <a href="https://hsini.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Principal+AI+Systems+Architect;Autonomous+Multi-Agent+Swarm+Engineer;Creator+of+Personal-Local-AI-Workstation;Full-Stack+SaaS+%26+Cloud+Infrastructure+Lead;Specialist+in+LangGraph+DAGs%2C+MCP+%26+Vector+RAG" alt="Typing SVG" />
   </a>
 
+  <br /><br />
+
   <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-0055ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/hsinidev/"><img src="https://img.shields.io/badge/LinkedIn-hsinidev-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/GitHub-@hsinidev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:contact@hsini.dev"><img src="https://img.shields.io/badge/Email-contact@hsini.dev-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://img.shields.io/badge/Location-Morocco%20🇲🇦-00c853?style=for-the-badge" alt="Location" />
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Contracts-f59e0b?style=for-the-badge" alt="Status" />
   </p>
 
 </div>
@@ -53,17 +28,17 @@
 <table align="center" style="border: none; background: transparent; width: 100%;">
   <tr>
     <td align="center" width="220" style="border: none; padding: 15px;">
-      <img src="assets/profile.png" width="180" height="180" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,85,255,0.35); border: 3px solid #0055ff;" alt="Hsini Mohamed" />
+      <img src="https://avatars.githubusercontent.com/u/232697467?v=4" width="180" height="180" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(99,102,241,0.4); border: 3.5px solid #6366f1;" alt="Hsini Mohamed" />
       <br /><br />
-      <b>Hsini Mohamed</b><br />
+      <b style="font-size: 1.15rem;">Hsini Mohamed</b><br />
       <sub>Morocco 🇲🇦</sub>
     </td>
     <td style="border: none; padding: 15px; vertical-align: middle;">
-      <p style="font-size: 1.05rem; line-height: 1.6;">
-        I architect and engineer <b>production-grade autonomous AI systems</b>, <b>deterministic multi-agent swarms</b>, and <b>enterprise SaaS platforms</b>. Every solution I design is built with zero compromise on performance, security, local-first autonomy, and mathematical state convergence.
+      <p style="font-size: 1.05rem; line-height: 1.7;">
+        I architect and engineer <b>production-grade autonomous AI systems</b>, <b>deterministic multi-agent swarms</b>, and <b>enterprise cloud platforms</b>. Every solution is designed for absolute data sovereignty, high throughput, zero-leak privacy, and mathematical state convergence.
       </p>
-      <p>
-        🎯 <b>Core Focus:</b> Multi-Agent Swarms (LangGraph, Swarm, CrewAI, AutoGen) · Model Context Protocol (MCP Tooling) · High-Performance Backends (Laravel 12, Rust, Python, PHP 8) · Spatial & 3D Web (Unity, Three.js, WebGL) · Hybrid Vector RAG.
+      <p style="font-size: 0.95rem; line-height: 1.6;">
+        🎯 <b>Core Specializations:</b> Multi-Agent Swarms (LangGraph, Swarm, CrewAI, AutoGen) · Model Context Protocol (MCP Tooling) · High-Performance Backends (.NET 10, Python, Rust, Laravel 12) · Local-First Inference (Ollama, SQLite-vec, ChromaDB) · Enterprise SaaS ERPs.
       </p>
     </td>
   </tr>
@@ -71,15 +46,15 @@
 
 ---
 
-## 🌟 Top 15+ Featured Enterprise Projects & Workstations
+## 🌟 Featured Flagship Systems & Workstations
 
-> *GitHub's default profile limits pinned repos to 6. Below is my complete flagship project index with live deployment links, architecture breakdowns, and tech stacks:*
+> *Explore the flagship open-source systems and enterprise platforms engineered across the ecosystem:*
 
 <table>
   <thead>
-    <tr style="background: rgba(0,85,255,0.1);">
-      <th width="30%">🚀 Project & Live System</th>
-      <th width="45%">📋 Description & Key Innovations</th>
+    <tr style="background: rgba(99,102,241,0.15);">
+      <th width="30%">🚀 System & Workstation</th>
+      <th width="45%">📋 Architectural Innovations</th>
       <th width="25%">⚡ Tech Stack</th>
     </tr>
   </thead>
@@ -87,208 +62,131 @@
     <!-- Project 1 -->
     <tr>
       <td>
-        <b><a href="https://github.com/hsinidev/autonomous-agent-workstation">⚡ Autonomous Agent Workstation</a></b><br />
-        <sub>⭐ Flagship Multi-Agent IDE Ecosystem</sub>
+        <b><a href="https://github.com/hsinidev/Personal-Local-AI-Workstation">🧠 Personal Local AI Workstation v2.0</a></b><br />
+        <sub>⭐ 100% Sovereign Offline AI Engine</sub>
       </td>
       <td>
-        Transforms ANY IDE into a self-healing engineering swarm. Integrates LangGraph DAGs, OpenAI Swarm routing, CrewAI planning, AutoGen sandboxes, 150+ MCP tool schemas, and 1,000+ domain skills.
+        0.05s .NET 10 Native Launcher with Acrylic Splash Screen, 5-Node Swarm DAG scheduling, AST-aware SQLite-vec RAG, and local Ollama model orchestration.
       </td>
       <td>
-        <code>Python</code> · <code>LangGraph</code> · <code>CrewAI</code> · <code>MCP</code> · <code>Swarm</code>
+        <code>.NET 10</code> · <code>C# WPF</code> · <code>Python</code> · <code>SQLite-vec</code> · <code>Ollama</code>
       </td>
     </tr>
     <!-- Project 2 -->
     <tr>
       <td>
-        <b><a href="https://github.com/hsinidev/Personal-Local-AI-Workstation">🧠 Personal Local AI Workstation</a></b><br />
-        <sub>Offline-First Multi-Model Swarm v2.0</sub>
+        <b><a href="https://github.com/hsinidev/autonomous-agent-workstation">⚡ Autonomous Agent Workstation</a></b><br />
+        <sub>⭐ Super-Agent IDE Ecosystem</sub>
       </td>
       <td>
-        100% offline-first AI engineering workstation with hybrid AST vector indexing, local SQLite-vec RAG pipelines, C# WPF desktop launchers, and multi-model routing.
+        Transforms ANY IDE into a self-healing engineering swarm. Integrates LangGraph DAGs, OpenAI Swarm routing, CrewAI planning, AutoGen sandboxes, and 150+ MCP tools.
       </td>
       <td>
-        <code>Python</code> · <code>C# .NET</code> · <code>SQLite-vec</code> · <code>WPF</code> · <code>RAG</code>
+        <code>Python</code> · <code>LangGraph</code> · <code>CrewAI</code> · <code>MCP</code> · <code>Swarm</code>
       </td>
     </tr>
     <!-- Project 3 -->
     <tr>
       <td>
-        <b><a href="https://github.com/hsinidev/apex-trader">📈 Apex Trader Terminal</a></b><br />
-        <sub><a href="https://trade.hsini.dev">trade.hsini.dev</a> 🌐 Live</sub>
+        <b><a href="https://github.com/hsinidev/MULTIMODAL_RAG_Product_Assistant">👁️ Multimodal RAG Assistant</a></b><br />
+        <sub>Enterprise Vision & Text RAG Agent</sub>
       </td>
       <td>
-        Institutional-grade multi-market trading terminal with high-frequency telemetry, real-time WebSockets, algorithmic strategy backtesting, and interactive TradingView charts.
+        Combines OpenAI CLIP visual embeddings with ChromaDB dense vector text search and BM25 Reciprocal Rank Fusion for multimodal e-commerce discovery.
       </td>
       <td>
-        <code>React 19</code> · <code>TypeScript</code> · <code>WebSockets</code> · <code>Tailwind</code>
+        <code>Python</code> · <code>FastAPI</code> · <code>ChromaDB</code> · <code>CLIP</code> · <code>PyTorch</code>
       </td>
     </tr>
     <!-- Project 4 -->
     <tr>
       <td>
-        <b><a href="https://github.com/hsinidev/hsini-healthmed-ai">🏥 Hsini HealthMed AI</a></b><br />
-        <sub>Enterprise Clinical DICOM AI Diagnostic</sub>
+        <b><a href="https://github.com/hsinidev/n8n-collection">🔄 n8n Automation Collection</a></b><br />
+        <sub>Enterprise AI Workflows & ETL Nodes</sub>
       </td>
       <td>
-        Hospital-grade DICOM medical imaging viewer, AI pathology segmentation, automated patient diagnostic reports, and HIPAA-compliant data pipelines.
+        Production-ready n8n workflow blueprints covering autonomous AI agents, multi-channel webhook dispatchers, CRM sync, and automated ETL data pipelines.
       </td>
       <td>
-        <code>Python</code> · <code>FastAPI</code> · <code>DICOM</code> · <code>Three.js</code> · <code>PyTorch</code>
+        <code>JSON</code> · <code>TypeScript</code> · <code>n8n Nodes</code> · <code>Automation</code>
       </td>
     </tr>
     <!-- Project 5 -->
     <tr>
       <td>
-        <b><a href="https://github.com/hsinidev/hsini-estates">🏰 Hsini Estates</a></b><br />
-        <sub>Luxury PropTech & 360° VR Spatial Tours</sub>
+        <b><a href="https://github.com/hsinidev/MangaNexus-Reader">📖 MangaNexus Reader</a></b><br />
+        <sub>High-Performance Graphic Novel Reader</sub>
       </td>
       <td>
-        Next-gen luxury real estate platform featuring immersive 360° WebGL virtual tours, spatial room visualizers, mortgage calculators, and lead management CRM.
+        Ultra-responsive comic & graphic novel web reader with hardware-accelerated canvas smoothing, infinite scroll, and offline IndexedDB chapter caching.
       </td>
       <td>
-        <code>Next.js 15</code> · <code>Three.js</code> · <code>WebGL</code> · <code>Tailwind CSS</code>
+        <code>Next.js 15</code> · <code>React 19</code> · <code>TypeScript</code> · <code>Tailwind CSS</code>
       </td>
     </tr>
     <!-- Project 6 -->
+    <tr>
+      <td>
+        <b><a href="https://github.com/hsinidev/Nexus-Construct-BTP-CRM">🏗️ Nexus Construct BTP CRM</a></b><br />
+        <sub>Civil Engineering & Subcontractor ERP</sub>
+      </td>
+      <td>
+        Enterprise construction ERP tracking architectural milestones, subcontractor invoicing, site safety logs, and real-time material procurement.
+      </td>
+      <td>
+        <code>Laravel 12</code> · <code>PHP 8.3</code> · <code>PostgreSQL</code> · <code>Tailwind</code>
+      </td>
+    </tr>
+    <!-- Project 7 -->
+    <tr>
+      <td>
+        <b><a href="https://github.com/hsinidev/Nexus-Academy-School-ERP">🎓 Nexus Academy School ERP</a></b><br />
+        <sub>Campus Operations & Academic ERP</sub>
+      </td>
+      <td>
+        Full-lifecycle educational ERP: weighted gradebooks, student biometric attendance, automated tuition billing schedules, and parent portals.
+      </td>
+      <td>
+        <code>Laravel 12</code> · <code>PHP 8</code> · <code>MySQL</code> · <code>Tailwind CSS</code>
+      </td>
+    </tr>
+    <!-- Project 8 -->
     <tr>
       <td>
         <b><a href="https://github.com/hsinidev/nexus-fleet-vision">🚛 Nexus Fleet Vision</a></b><br />
         <sub>Enterprise IoT Telematics Dashboard</sub>
       </td>
       <td>
-        Real-time GPS vehicle tracking, geofencing alarms, fuel consumption analytics, driver behavior monitoring, and automated maintenance dispatching.
+        Real-time GPS vehicle tracking, dynamic geofence breach alarms, fuel telemetry analytics, driver safety scoring, and automated dispatching.
       </td>
       <td>
-        <code>TypeScript</code> · <code>Node.js</code> · <code>Leaflet Maps</code> · <code>WebSockets</code>
-      </td>
-    </tr>
-    <!-- Project 7 -->
-    <tr>
-      <td>
-        <b><a href="https://github.com/hsinidev/HR-Support-AI-Agent-With-RAG-ChromaDB">🤖 HR Support AI Agent (RAG)</a></b><br />
-        <sub>Enterprise Hybrid Vector Assistant</sub>
-      </td>
-      <td>
-        Conversational HR operations agent powered by ChromaDB vector retrieval, semantic hybrid search, multi-tenant document isolation, and dynamic policy parsing.
-      </td>
-      <td>
-        <code>Python</code> · <code>ChromaDB</code> · <code>LangChain</code> · <code>FastAPI</code>
-      </td>
-    </tr>
-    <!-- Project 8 -->
-    <tr>
-      <td>
-        <b><a href="https://github.com/hsinidev/doodax">🛠️ Doodax Utilities Portal</a></b><br />
-        <sub>100+ Free Online AI Tools Portal</sub>
-      </td>
-      <td>
-      </td>
-      <td>
-        <code>React 19</code> · <code>TypeScript</code> · <code>Vite</code> · <code>Gemini API</code>
+        <code>TypeScript</code> · <code>Next.js</code> · <code>Leaflet Maps</code> · <code>WebSockets</code>
       </td>
     </tr>
     <!-- Project 9 -->
     <tr>
       <td>
-        <b><a href="https://github.com/hsinidev/nexusarcade-nextjs-gaming-portal">🎮 NexusArcade Gaming Portal</a></b><br />
+        <b><a href="https://github.com/hsinidev/Nexus-Games-Portal">🎮 Nexus Games Portal</a></b><br />
         <sub>High-Performance WebGL Gaming CMS</sub>
       </td>
       <td>
-        Self-hosted, ultra-fast gaming portal CMS with 10 themes, 16 ad placement zones, WebGL player engines, leaderboards, and SQLite zero-latency storage.
+        Self-hosted gaming portal CMS with 10+ dynamic themes, 16 ad placement zones, WebGL player engines, leaderboards, and SQLite zero-latency storage.
       </td>
       <td>
-        <code>PHP 8</code> · <code>SQLite</code> · <code>WebGL</code> · <code>JavaScript</code>
+        <code>PHP 8.3</code> · <code>SQLite</code> · <code>WebGL</code> · <code>JavaScript</code>
       </td>
     </tr>
     <!-- Project 10 -->
     <tr>
       <td>
-        <b><a href="https://github.com/hsinidev/20py-project">🛡️ 20 Python Industrial Suite</a></b><br />
-        <sub>GEO, Automation & Cybersecurity Suite</sub>
+        <b><a href="https://github.com/hsinidev/basma">📦 Basma Archive Engine</a></b><br />
+        <sub>Fast Compression & Vault Archiver</sub>
       </td>
       <td>
-        20 battle-tested Python solutions covering Generative Engine Optimization (GEO), network vulnerability fuzzers, credential decoders, and data scrapers.
+        Universal file archiving and compression engine supporting ZIP, TAR, GZ, 7z, and RAR inspection with multi-threaded execution and SHA-256 validation.
       </td>
       <td>
-        <code>Python 3.12</code> · <code>Asyncio</code> · <code>Scrapy</code> · <code>Cryptography</code>
-      </td>
-    </tr>
-    <!-- Project 11 -->
-    <tr>
-      <td>
-        <b><a href="https://github.com/hsinidev/ChefSync-Recipe-SaaS">👨‍🍳 ChefSync Recipe SaaS</a></b><br />
-        <sub>Culinary Operations & Kitchen SaaS</sub>
-      </td>
-      <td>
-        Multi-tenant restaurant recipe costing engine, ingredient inventory sync, allergen tracking, nutritional calculations, and automated supplier purchase orders.
-      </td>
-      <td>
-        <code>Laravel 12</code> · <code>PHP 8</code> · <code>MySQL</code> · <code>Bootstrap 5</code>
-      </td>
-    </tr>
-    <!-- Project 12 -->
-    <tr>
-      <td>
-        <b><a href="https://github.com/hsinidev/OmniSync-Ecommerce-Inventory">📦 OmniSync E-commerce Hub</a></b><br />
-        <sub>Multi-Channel Inventory Orchestration</sub>
-      </td>
-      <td>
-        Enterprise inventory synchronization platform connecting Shopify, WooCommerce, Amazon, and local POS systems with real-time stock allocation.
-      </td>
-      <td>
-        <code>PHP</code> · <code>Laravel</code> · <code>Redis Queue</code> · <code>REST APIs</code>
-      </td>
-    </tr>
-    <!-- Project 13 -->
-    <tr>
-      <td>
-        <b><a href="https://github.com/hsinidev/Alisnadel-Industrial-Portal">🏭 Alisnad Industrial Portal</a></b><br />
-        <sub>B2B Industrial Procurement Platform</sub>
-      </td>
-      <td>
-        Full-featured industrial B2B commerce platform with multi-tier pricing, RFQ negotiations, heavy machinery catalog management, and ERP sync.
-      </td>
-      <td>
-        <code>PHP 8</code> · <code>Laravel 12</code> · <code>MySQL</code> · <code>Tailwind</code>
-      </td>
-    </tr>
-    <!-- Project 14 -->
-    <tr>
-      <td>
-        <b><a href="https://github.com/hsinidev/Nexus-Construct-BTP-CRM">🏗️ Nexus Construct BTP CRM</a></b><br />
-        <sub>Construction & Real Estate CRM</sub>
-      </td>
-      <td>
-        Specialized construction project management CRM tracking architectural milestones, subcontractor invoices, material deliveries, and site safety audits.
-      </td>
-      <td>
-        <code>Laravel</code> · <code>PHP</code> · <code>PostgreSQL</code> · <code>Blade</code>
-      </td>
-    </tr>
-    <!-- Project 15 -->
-    <tr>
-      <td>
-        <b><a href="https://github.com/hsinidev/Nexus-Academy-School-ERP">🎓 Nexus Academy School ERP</a></b><br />
-        <sub>Campus & Academic Management ERP</sub>
-      </td>
-      <td>
-        Comprehensive educational ERP supporting gradebooks, student biometric attendance, fee billing schedules, teacher timetables, and parent communication portals.
-      </td>
-      <td>
-        <code>PHP 8</code> · <code>Laravel</code> · <code>MySQL</code> · <code>Tailwind</code>
-      </td>
-    </tr>
-    <!-- Project 16 -->
-    <tr>
-      <td>
-        <b><a href="https://github.com/hsinidev/hsini-legal-partners">⚖️ Hsini Legal Partners</a></b><br />
-        <sub><a href="https://legal.hsini.dev">legal.hsini.dev</a> 🌐 Live</sub>
-      </td>
-      <td>
-        High-end corporate law firm digital portal with secure client case tracking, confidential document vaults, consultation bookings, and multilingual legal blogs.
-      </td>
-      <td>
-        <code>Next.js</code> · <code>React</code> · <code>Tailwind CSS</code> · <code>TypeScript</code>
+        <code>Python</code> · <code>Makefile</code> · <code>C++</code> · <code>Cryptography</code>
       </td>
     </tr>
   </tbody>
@@ -296,21 +194,15 @@
 
 ---
 
-
----
-
 ## 🗂️ Thematic Ecosystem & Repository Clustering Catalog (`1,764 Repos`)
 
 <div align="center">
   <p>
+    <img src="https://img.shields.io/badge/Total_Repositories-1%2C764-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Total Repositories" />
+    <img src="https://img.shields.io/badge/Clustered_Domains-7_Core_Themes-8b5cf6?style=for-the-badge" alt="7 Core Themes" />
+    <img src="https://img.shields.io/badge/Architecture-Autonomous_Swarm_%26_Local_AI-00c853?style=for-the-badge" alt="Architecture" />
   </p>
 </div>
-
-> *An automated, classified index of all **1,764 repositories** across the `@hsinidev` ecosystem, clustered by technical domain, architecture, and framework.*
-
-<br />
-
-### 📊 Portfolio Domain & Tech Stack Breakdown
 
 | Domain / Theme Cluster | Repos | % Portfolio | Primary Tech Stack | Core Capabilities |
 | :--- | :---: | :---: | :--- | :--- |
@@ -319,177 +211,101 @@
 | **⚡ Systems, Networking & Security** | `44` | `2.5%` | `C#`, `Makefile`, `C++`, `PowerShell` | Quantum SSH/SFTP terminals, NetPulse scanner, Zero-Trust SOC, DNS benches |
 | **🔄 Media Processing & Converters** | `33` | `1.9%` | `Python`, `TypeScript`, `FFmpeg` | Vector transcoders, batch document matrix engines, PDF forge pipelines |
 | **💼 FinTech, Calculators & Business** | `37` | `2.1%` | `TypeScript`, `React`, `Kotlin` | Cross-border tax hubs, SoloIRA planners, contractor mileage calculators |
+| **💻 Modern Web Apps & UI Suites** | `308` | `17.5%` | `TypeScript`, `Next.js`, `React 19` | 1000-UI component suites, developer portals, enterprise dashboards |
 | **🎮 Web Games & Interactive Experiences** | `1,228` | `69.6%` | `HTML5`, `JavaScript`, `WebGL` | 2D/3D physics engines, canvas simulations, arcade game collections |
 
 <br />
 
 <details>
-<summary><b>🔍 Expand Thematic Spotlights & Direct Repository Index</b></summary>
+<summary><b>🔍 Click to Expand Top Highlights per Domain</b></summary>
 
 <br />
 
-#### 1. 🤖 AI, Autonomous Systems & RAG (77 Repositories)
-*High-complexity autonomous agents, enterprise LLM pipelines, specialized document & forensic analyzers, and retrieval-augmented generation (RAG) orchestrators.*
-
-- [**autonomous-agent-workstation**](https://github.com/hsinidev/autonomous-agent-workstation) — Super-Agent IDE Ecosystem with LangGraph, Swarm, and MCP tooling.
-- [**Personal-Local-AI-Workstation**](https://github.com/hsinidev/Personal-Local-AI-Workstation) — Offline-first local LLM workstation with .NET 10 launcher and hybrid vector RAG.
-- [**HR-Support-AI-Agent-With-RAG-ChromaDB**](https://github.com/hsinidev/HR-Support-AI-Agent-With-RAG-ChromaDB) — Enterprise HR knowledge assistant with vector isolation.
-- [**Automated-Debugging-Assistant**](https://github.com/hsinidev/Automated-Debugging-Assistant) — Self-healing AST error interceptor and patch synthesizer.
-- [**LLM-Prompt-Simulator**](https://github.com/hsinidev/LLM-Prompt-Simulator) — Real-time prompt engineering playground and benchmark harness.
-- [**AI-Resume-Builder**](https://github.com/hsinidev/AI-Resume-Builder) · [**AI-Article-Editor**](https://github.com/hsinidev/AI-Article-Editor) · [**AI-Background-Remover**](https://github.com/hsinidev/AI-Background-Remover) · [**AI-Meeting-Minutes-Generator**](https://github.com/hsinidev/AI-Meeting-Minutes-Generator)
-
-#### 2. 📱 Native Mobile Applications (Android / Kotlin) (31 Repositories)
-*Production-ready Android native applications built with modern Kotlin, Jetpack Compose, state flow architectures, and localized utilities.*
-
-- [**LinkDigest**](https://github.com/hsinidev/LinkDigest) — Offline article digest and reading companion.
-- [**PupSenior-Tracker**](https://github.com/hsinidev/PupSenior-Tracker) — Senior pet healthcare & medication scheduling engine.
-- [**CrossBorder-TaxHub**](https://github.com/hsinidev/CrossBorder-TaxHub) — International multi-jurisdiction tax estimator.
-- [**DocReader**](https://github.com/hsinidev/DocReader) · [**PaprSync**](https://github.com/hsinidev/PaprSync) · [**BeatFlow-Music**](https://github.com/hsinidev/BeatFlow-Music) · [**kiblasalat**](https://github.com/hsinidev/kiblasalat) · [**ZipMaster**](https://github.com/hsinidev/ZipMaster)
-
-#### 3. ⚡ Systems, Networking & Security Tools (44 Repositories)
-*Low-level telemetry scanners, quantum SSH/SFTP terminals, IoT serial data interfaces, packet analyzers, and cryptographic vault engines.*
-
-- [**Quantum-SSH-Terminal-Emulator**](https://github.com/hsinidev/Quantum-SSH-Terminal-Emulator) — High-performance secure terminal with session recording.
-- [**NetPulse-IP-Port-Scanner**](https://github.com/hsinidev/NetPulse-IP-Port-Scanner) — Low-latency network discovery and port security scanner.
-- [**DNS-Benchmark-Switcher**](https://github.com/hsinidev/DNS-Benchmark-Switcher) — Desktop DNS latency auditor and instant adapter switcher.
-- [**Folder-Encrypter-Vault-Archiver**](https://github.com/hsinidev/Folder-Encrypter-Vault-Archiver) — AES-GCM encrypted local storage vault.
-- [**Wake-On-LAN-Broadcast-Master**](https://github.com/hsinidev/Wake-On-LAN-Broadcast-Master) · [**Basma-Archive-Engine-WinRAR-Alternative**](https://github.com/hsinidev/Basma-Archive-Engine-WinRAR-Alternative) · [**Serial-IoT-Data-Terminal**](https://github.com/hsinidev/Serial-IoT-Data-Terminal)
-
-#### 4. 🔄 Media Processing, Converters & Transcoders (33 Repositories)
-*Batch media converters, vector transcoders, GIF decompiler pipelines, and automated PDF & document transformation engines.*
-
-- [**Vector-Transcoder-SVGEPSAI**](https://github.com/hsinidev/Vector-Transcoder-SVGEPSAI) — Lossless vector format conversion pipeline.
-- [**PDF-Forge-Office-Converter**](https://github.com/hsinidev/PDF-Forge-Office-Converter) — High-throughput document and spreadsheet to PDF engine.
-- [**OmniConvert-Video-Audio**](https://github.com/hsinidev/OmniConvert-Video-Audio) — Universal hardware-accelerated media transcode utility.
-- [**GIF-Animator-Frame-Decompiler**](https://github.com/hsinidev/GIF-Animator-Frame-Decompiler) · [**Subtitle-Weaver-Transcoder**](https://github.com/hsinidev/Subtitle-Weaver-Transcoder) · [**Batch-Document-Matrix-Converter**](https://github.com/hsinidev/Batch-Document-Matrix-Converter)
-
-#### 5. 💼 FinTech, Calculators & Business Tools (37 Repositories)
-*Financial planning calculators, cross-border tax utilities, freelance & contractor mileage trackers, and budget engines.*
-
-- [**SoloIRA-Planner**](https://github.com/hsinidev/SoloIRA-Planner) — Retirement tax advantage and compounding modeler.
-- [**SinkingFund-Plus**](https://github.com/hsinidev/SinkingFund-Plus) — Goal-based targeted savings allocator.
-- [**Contractor-Miles**](https://github.com/hsinidev/Contractor-Miles) — IRS-compliant business mileage and expense tracker.
-- [**GigDriver-Calc**](https://github.com/hsinidev/GigDriver-Calc) — Real-time net wage and vehicle depreciation calculator.
-
-#### 6. 💻 Modern Web Apps, Dashboards & UI Suites (308 Repositories)
-
-- [**1000-ui-projects**](https://github.com/hsinidev/1000-ui-projects) — Flagship showcase of 1,000 production UI modules and interactive components.
-- [**apex-trader**](https://github.com/hsinidev/apex-trader) — Institutional financial charting and analytics terminal.
-- [**hsini-estates**](https://github.com/hsinidev/hsini-estates) — 360° virtual real estate tour and spatial visualizer.
+- **🤖 AI & Autonomous Systems**: [Personal-Local-AI-Workstation](https://github.com/hsinidev/Personal-Local-AI-Workstation) · [autonomous-agent-workstation](https://github.com/hsinidev/autonomous-agent-workstation) · [MULTIMODAL_RAG_Product_Assistant](https://github.com/hsinidev/MULTIMODAL_RAG_Product_Assistant) · [HR-Support-AI-Agent-With-RAG-ChromaDB](https://github.com/hsinidev/HR-Support-AI-Agent-With-RAG-ChromaDB)
+- **📱 Android & Mobile Apps**: [FocusForge](https://github.com/hsinidev/FocusForge) · [LinkDigest](https://github.com/hsinidev/LinkDigest) · [PupSenior-Tracker](https://github.com/hsinidev/PupSenior-Tracker) · [CrossBorder-TaxHub](https://github.com/hsinidev/CrossBorder-TaxHub) · [BeatFlow-Music](https://github.com/hsinidev/BeatFlow-Music)
+- **⚡ Systems & Networking**: [Quantum-SSH-Terminal-Emulator](https://github.com/hsinidev/Quantum-SSH-Terminal-Emulator) · [NetPulse-IP-Port-Scanner](https://github.com/hsinidev/NetPulse-IP-Port-Scanner) · [DNS-Benchmark-Switcher](https://github.com/hsinidev/DNS-Benchmark-Switcher) · [Folder-Encrypter-Vault-Archiver](https://github.com/hsinidev/Folder-Encrypter-Vault-Archiver)
+- **🔄 Media & Utilities**: [Vector-Transcoder-SVGEPSAI](https://github.com/hsinidev/Vector-Transcoder-SVGEPSAI) · [PDF-Forge-Office-Converter](https://github.com/hsinidev/PDF-Forge-Office-Converter) · [OmniConvert-Video-Audio](https://github.com/hsinidev/OmniConvert-Video-Audio) · [GIF-Animator-Frame-Decompiler](https://github.com/hsinidev/GIF-Animator-Frame-Decompiler)
+- **💼 FinTech & Management**: [SoloIRA-Planner](https://github.com/hsinidev/SoloIRA-Planner) · [SinkingFund-Plus](https://github.com/hsinidev/SinkingFund-Plus) · [Contractor-Miles](https://github.com/hsinidev/Contractor-Miles) · [GigDriver-Calc](https://github.com/hsinidev/GigDriver-Calc)
+- **💻 Web Suites & Portals**: [1000-ui-projects](https://github.com/hsinidev/1000-ui-projects) · [doodax](https://github.com/hsinidev/doodax) · [apex-trader](https://github.com/hsinidev/apex-trader) · [hsini-estates](https://github.com/hsinidev/hsini-estates)
 
 </details>
+
+---
 
 ## 📊 Live GitHub Analytics & Activity Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hsinidev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0055ff&icon_color=0055ff&text_color=c9d1d9" alt="Hsini Mohamed GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsinidev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0055ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hsinidev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=6366f1&icon_color=6366f1&text_color=94a3b8" alt="Hsini Mohamed GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsinidev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=6366f1&text_color=94a3b8" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsinidev&theme=tokyonight&hide_border=true&background=0d1117&stroke=0055ff&ring=0055ff&fire=0055ff&currStreakLabel=0055ff" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsinidev&theme=tokyonight&hide_border=true&background=0a0d14&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
 
-## 🧰 Enterprise Technology Stack & Ecosystem
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                             TECHNOLOGY PROFICIENCY MATRIX                                       │
-└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
+## 🧰 Enterprise Technology Proficiency Matrix
 
 <div align="center">
 
   ### 🤖 AI, LLMs & Multi-Agent Swarms
   <p>
+    <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+    <img src="https://img.shields.io/badge/CrewAI-FF5722?style=for-the-badge&logo=crewai&logoColor=white" />
+    <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenAI_Swarm-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ollama_Local_LLM-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+    <img src="https://img.shields.io/badge/ChromaDB-FC521F?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Model_Context_Protocol-6B21A8?style=for-the-badge&logo=json&logoColor=white" />
   </p>
 
   ### ⚙️ Backend, Systems & Cloud Infrastructure
   <p>
+    <img src="https://img.shields.io/badge/.NET_10_Native-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP_8.3-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </p>
 
   ### 🌐 Frontend, Web & Spatial/3D UI
   <p>
+    <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android_Kotlin-A97BFF?style=for-the-badge&logo=android&logoColor=white" />
   </p>
 
-  ### 💾 Databases & Storage Engines
+  ### 💾 Databases & Vector Storage Engines
   <p>
-  </p>
-
-  ### 🎮 Creative Actuators & Tooling
-  <p>
+    <img src="https://img.shields.io/badge/SQLite_vec-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   </p>
 
 </div>
 
 ---
 
-## 🤝 Get in Touch & Work Together
+## 🤝 Let's Connect & Build Together
 
-Looking to build **autonomous AI agent architectures**, scale **multi-tenant SaaS platforms**, integrate **enterprise MCP tooling**, or develop **immersive WebGL/3D web experiences**? Let's connect!
+Looking to build **autonomous AI agent architectures**, scale **enterprise SaaS ERP platforms**, integrate **Model Context Protocol (MCP) tooling**, or develop **modern full-stack applications**?
 
 <div align="center">
   <p>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/🌐_Official_Portfolio-hsini.dev-0055ff?style=for-the-badge" alt="Portfolio" /></a>
+    <a href="mailto:contact@hsini.dev"><img src="https://img.shields.io/badge/✉️_Email_Direct-contact@hsini.dev-ea4335?style=for-the-badge" alt="Email" /></a>
+    <a href="https://linkedin.com/in/hsinidev/"><img src="https://img.shields.io/badge/💼_LinkedIn-hsinidev-0077b5?style=for-the-badge" alt="LinkedIn" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/🐙_GitHub_Profile-@hsinidev-181717?style=for-the-badge" alt="GitHub" /></a>
   </p>
   <br />
-  <sub>⚡ Designed and maintained with precision by <b><a href="https://hsini.dev">Hsini Mohamed</a></b>.</sub>
-</div>
-
----
-## 🚀 Quick Start & Installation
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/hsinidev/hsinidev.git
-cd hsinidev
-```
-
-### 2. Install Dependencies
-```bash
-npm install
-```
-
-### 3. Launch the Application
-```bash
-npm start
-```
-
-
----
-
-## 👨‍💻 System Architect & Author
-
-<table align="center" style="border: none; background: transparent; width: 100%;">
-  <tr>
-    <td align="center" width="160" style="border: none; padding: 12px;">
-      <img src="https://avatars.githubusercontent.com/u/232697467?v=4" width="120" height="120" style="border-radius: 50%; box-shadow: 0 8px 24px rgba(99,102,241,0.3); border: 2.5px solid #6366f1;" alt="Hsini Mohamed" />
-      <br /><br />
-      <b>Hsini Mohamed</b><br />
-      <sub>Morocco 🇲🇦</sub>
-    </td>
-    <td style="border: none; padding: 12px; vertical-align: middle;">
-      <h3 style="margin-top: 0;">🚀 System Architect & Full-Stack Engineer</h3>
-      <p style="font-size: 0.95rem; line-height: 1.6; color: #475569;">
-        Specializing in high-performance autonomous AI systems, deterministic multi-agent swarms, enterprise cloud architecture, and modern full-stack engineering.
-      </p>
-      <p>
-        <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-2563eb?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-        <a href="mailto:contact@hsini.dev"><img src="https://img.shields.io/badge/Email-contact@hsini.dev-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-        <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/GitHub-@hsinidev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-        <a href="https://linkedin.com/in/hsinidev/"><img src="https://img.shields.io/badge/LinkedIn-hsinidev-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📄 License & Attribution
-
-This project is distributed under the **MIT License**. See [`LICENSE`](LICENSE) for complete terms.
-
-<div align="center">
-  <sub>⚡ Designed, architected, and maintained with engineering precision by <b><a href="https://hsini.dev">Hsini Mohamed</a></b>.</sub>
+  <sub>⚡ Designed and architected with precision by <b><a href="https://hsini.dev">Hsini Mohamed</a></b>.</sub>
 </div>
